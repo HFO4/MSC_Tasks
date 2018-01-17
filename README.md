@@ -1,2 +1,2 @@
 # MSC_Tasks
-Tasks of MSC@CQU
+Tasks of MSC@CQ
